@@ -7,7 +7,7 @@
 
 
 
-I'm Gautham Bansal pursuing my bachelor's degree from National Institute of Technology, Raipur. I am a tech enthusiast & an open-source contributor. I am always open to collaborating on projects and innovative/disruptive ideas. Feel free to approach (emoji).
+I'm Prudhvi Thimmareddy pursuing my bachelor's degree in Electrical Engineering from National Institute of Technology, Raipur. I'm a tech enthusiast & an open-source contributor. I am always open to collaborate on projects and innovative/disruptive ideas. Feel free to approach (emoji).
 
 
 
