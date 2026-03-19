@@ -9,7 +9,8 @@
 
 I'm Prudhvi Thimmareddy pursuing my bachelor's degree in Electrical Engineering from National Institute of Technology, Raipur. I'm a tech enthusiast & an open-source contributor. I am always open to collaborate on projects and innovative/disruptive ideas. Feel free to approach (emoji).
 
-
+Know more about me; 
+Here is my Portfolio: https://portfolio-showcase--prudhvireddy183.replit.app/
 
 ![image](https://user-images.githubusercontent.com/84126267/189583293-e2f327b2-9dc4-4118-83e0-bc122da5dcff.png)
 
