@@ -4,13 +4,9 @@
 
 <!-- ![image](https://user-images.githubusercontent.com/84126267/189581479-198c6e2e-a80f-4223-9d4e-336d920d1f19.png) -->
 
-
-
-
-I'm Prudhvi Thimmareddy pursuing my bachelor's degree in Electrical Engineering from National Institute of Technology, Raipur. I'm a tech enthusiast & an open-source contributor. I am always open to collaborate on projects and innovative/disruptive ideas. Feel free to approach (emoji).
-
-Know more about me; 
-Here is my Portfolio: https://portfolio-showcase--prudhvireddy183.replit.app/
+StartUp Product Manager at a YC-backed startup (AlgoUniversity, YC S21), owning multiple 0→1 products across B2B and B2C - from problem discovery and GTM to user acquisition, retention, revenue-linked partnerships, and scalable growth loops. Worked directly with Founders & COO on open-ended, business-critical
+problems tied to growth and revenue.
+Reachout on prudhvithimmareddy@gmail.com for more details.
 
 ![image](https://user-images.githubusercontent.com/84126267/189583293-e2f327b2-9dc4-4118-83e0-bc122da5dcff.png)
 
