@@ -6,6 +6,8 @@
 
 StartUp Product Manager at a YC-backed startup (AlgoUniversity, YC S21), owning multiple 0→1 products across B2B and B2C - from problem discovery and GTM to user acquisition, retention, revenue-linked partnerships, and scalable growth loops. Worked directly with Founders & COO on open-ended, business-critical
 problems tied to growth and revenue.
+
+/n
 Reachout on prudhvithimmareddy@gmail.com for more details.
 
 ![image](https://user-images.githubusercontent.com/84126267/189583293-e2f327b2-9dc4-4118-83e0-bc122da5dcff.png)
